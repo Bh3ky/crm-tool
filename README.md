@@ -27,6 +27,19 @@ uvicorn app.main:app --reload
 - **API Docs (Swagger UI)**: [http://localhost:8000/docs](http://localhost:8000/docs)
 - **ReDoc**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
+## Frontend
+
+### Setup
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```   
+
 ## Note
 
 Note: This project is fully “AI-vibe coded” for educational purposes.
